@@ -14,10 +14,10 @@
         <remark>Major</remark>
     </member>
 
-    <member id="76561198892205216" nick="Poiva">
-        <name>Poiva</name>
+    <member id="76561199865008086" nick="oManga">
+        <name>Tiago</name>
         <email>-</email>
-        <icq>DISCORD: rogeriobt</icq>
+        <icq>DISCORD: tiagomanga</icq>
         <remark>Capitão</remark>
     </member>
 
@@ -27,21 +27,7 @@
         <icq>DISCORD: ninguem5722</icq>
         <remark>Capitão</remark>
     </member>
-
-    <member id="76561198112211475" nick="Jean">
-        <name>Jean</name>
-        <email>-</email>
-        <icq>DISCORD: casajean8962</icq>
-        <remark>Capitão</remark>
-    </member>
-
-    <member id="76561199865008086" nick="oManga">
-        <name>Tiago</name>
-        <email>-</email>
-        <icq>DISCORD: tiagomanga</icq>
-        <remark>Capitão</remark>
-    </member>
-    
+ 
     <member id="76561198127851224" nick="Morais">
         <name>Morais Muniz</name>
         <email>-</email>
@@ -56,22 +42,37 @@
         <remark>Tenente</remark>
     </member>
 
+    <member id="76561198873066923" nick="santo">
+        <name>Santo</name>
+        <email>-</email>
+        <icq>DISCORD: - </icq>
+        <remark>Tenente</remark>
+    </member>
+
+    <member id="76561198112211475" nick="Jean">
+        <name>Jean</name>
+        <email>-</email>
+        <icq>DISCORD: casajean8962</icq>
+        <remark>Capitão</remark>
+    </member>    
+
+<!--
     <member id="76561198154336802" nick="Chronos">
         <name>Chronos</name>
         <email>-</email>
         <icq>DISCORD: - </icq>
         <remark>Tenente</remark>
     </member>    
-<!--
+
+    <member id="76561198892205216" nick="Poiva">
+        <name>Poiva</name>
+        <email>-</email>
+        <icq>DISCORD: rogeriobt</icq>
+        <remark>Capitão</remark>
+    </member>
+    
     <member id="76561199174539013" nick="kiosk">
         <name>Kiosk</name>
-        <email>-</email>
-        <icq>DISCORD: - </icq>
-        <remark>Tenente</remark>
-    </member>
-
-    <member id="76561198873066923" nick="santo">
-        <name>Santo</name>
         <email>-</email>
         <icq>DISCORD: - </icq>
         <remark>Tenente</remark>
